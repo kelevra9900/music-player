@@ -1,4 +1,4 @@
-# music_player
+# Music Player Application
 
 A new Flutter project.
 
