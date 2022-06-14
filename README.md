@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+
+
+# Preview
+
+![](https://github.com/kelevra9900/music-player/blob/main/screenshots/1.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
